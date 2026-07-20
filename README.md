@@ -1,4 +1,14 @@
-## Hi there 👋
+I am a postdoctoral researcher at the Industrial Robotics Facility (INBOT) of the Italian Institute of Technology (IIT), where I develop control methods for complex robotic systems. My current work focuses on tendon-driven continuum robots for the manipulation of soft and deformable objects.
+
+My research interests lie at the intersection of model-based control, reinforcement learning and robotics. I develop hybrid control architectures designed to combine the structure and reliability of established control methods with the adaptability of learning-based approaches.
+
+My work spans the complete robotics pipeline, from mechanical design and system integration to perception, control implementation, experimental validation and real-world deployment.
+
+Beyond research, I am interested in open-source development, hands-on engineering and understanding complex systems from first principles.
+
+Contact: [abn.bajrami@gmail.com](mailto:abn.bajrami@gmail.com)  
+Other sites: [Personal Website](https://albinbajrami.com) · [LinkedIn](https://www.linkedin.com/in/albinbajrami/)
+
 
 <!--
 **AlbinEV/AlbinEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
